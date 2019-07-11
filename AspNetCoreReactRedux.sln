@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29102.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCoreReactRedux", "AspNetCoreReactRedux\AspNetCoreReactRedux.csproj", "{1D6F8FF1-63BD-4F8C-BA2D-C5BB39C1A12C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspNetCoreReactRedux", "AspNetCoreReactRedux\AspNetCoreReactRedux.csproj", "{1D6F8FF1-63BD-4F8C-BA2D-C5BB39C1A12C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLibrary1", "BusinessLibrary1\BusinessLibrary1.csproj", "{7D74A70A-665D-43B3-AD93-72289013AB0F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BusinessLibrary", "BusinessLibrary1\BusinessLibrary.csproj", "{7D74A70A-665D-43B3-AD93-72289013AB0F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLibrary", "DataAccessLibrary\DataAccessLibrary.csproj", "{7524984B-60B2-4B09-B585-8DA6B0027EC2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccessLibrary", "DataAccessLibrary\DataAccessLibrary.csproj", "{7524984B-60B2-4B09-B585-8DA6B0027EC2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
